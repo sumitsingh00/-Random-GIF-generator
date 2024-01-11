@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sumitsingh00/-Random-GIF-generator.git/static/css/main.aa86c614.css",
+    "main.js": "/sumitsingh00/-Random-GIF-generator.git/static/js/main.ecf2b974.js",
+    "index.html": "/sumitsingh00/-Random-GIF-generator.git/index.html",
+    "main.aa86c614.css.map": "/sumitsingh00/-Random-GIF-generator.git/static/css/main.aa86c614.css.map",
+    "main.ecf2b974.js.map": "/sumitsingh00/-Random-GIF-generator.git/static/js/main.ecf2b974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa86c614.css",
+    "static/js/main.ecf2b974.js"
+  ]
+}
